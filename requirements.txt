@@ -1,0 +1,9 @@
+pymongo
+langchain-huggingface
+langchain-community 
+pinecone
+numpy
+flask
+gunicorn
+flask_cors
+tqdm
